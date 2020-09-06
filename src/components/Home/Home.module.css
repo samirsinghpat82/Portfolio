@@ -1,0 +1,20 @@
+.home img{
+  position: relative;
+  width: 100%;
+  padding: 0;
+  height: 650px;
+}
+h3{
+  font-size: 60px;
+  color: whitesmoke;
+  position: absolute;
+  z-index: 1030;
+ top: 280px;
+ left: 580px;
+
+}
+.par{
+  font-size: larger;
+}
+
+

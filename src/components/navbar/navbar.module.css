@@ -1,0 +1,22 @@
+.navigationItems{
+  position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  background-color:  rgba(16,16,24,.97);
+  box-sizing: border-box;
+  display: block;
+  margin: 0;
+  width: 100%;
+  padding: 1% 0 0 75%;
+  height: 60px;
+}
+
+.navigationItems a{
+  font-size: 130%;
+  color: gray;
+  text-decoration: none;
+  margin: 10px;
+  text-align: right;
+}
